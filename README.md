@@ -69,6 +69,9 @@ for count, i in enumerate(consumer):
 - **Glue**: A Glue crawler automatically catalogs the data in S3, making it available for querying.
 - **Athena**: Enables real-time querying of the data for financial analysis.
 
+**KAFKA Architecture**
+
+! [Kafka Architecture](IMG_2683.gif)
 ## Installation
 
 1. Install the required libraries:
