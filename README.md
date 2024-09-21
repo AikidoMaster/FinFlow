@@ -71,7 +71,7 @@ for count, i in enumerate(consumer):
 
 **KAFKA Architecture**
 
-! [Kafka Architecture](IMG_2683.gif)
+![Kafka Architecture](IMG_2683.gif)
 ## Installation
 
 1. Install the required libraries:
